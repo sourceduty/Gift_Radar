@@ -13,6 +13,14 @@ An example usage of Gift Radar could be someone looking for a birthday gift for 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Product Rating](https://github.com/sourceduty/Product_Rating)
+<br>
+[Product Review Automation](https://github.com/sourceduty/Product_Review_Automation)
+<br>
+[Mystery Gift Box](https://github.com/sourceduty/Mystery_Gift_Box)
+<br>
+[Budget Balancer](https://github.com/sourceduty/Budget_Balancer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
